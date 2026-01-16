@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s /b *.html *.css *.js)",
+      "Bash(dir:*)",
+      "Bash(ls:*)",
+      "Bash(move formations.html formation-trading-paris.html)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)"
+    ]
+  }
+}
